@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 御批續資治通鑑綱目
-#+DATE: 2015-08-24 22:56:41.074697
-#+PROPERTY: ID KR2o0022
-#+PROPERTY: BASEEDITION WYG    
